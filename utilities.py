@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 23 15:44:29 2020
-
-@author: Yang Liu, Yongkai Chen
-"""
-
-
-
 def binimg(img):
     scale = 0.25
     m,n = img.shape
